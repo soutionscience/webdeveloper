@@ -156,7 +156,7 @@ p{
 /* for main banner
 =======================*/
 #main-banner{
-	background:url(../images/banner.jpg) no-repeat;
+	background:url(../images/banner5.jpg) no-repeat;
 	background-position:center center;
 	background-size:cover;
 }
@@ -164,7 +164,7 @@ p{
     margin-top: 20px;
 }
 .our-content{
-    padding: 250px 0px 270px 0px;	
+    padding: 100px 0px 100px 0px;	
 }
 .our-content p{
     max-width: 44%;
@@ -174,7 +174,15 @@ p{
 .our-content h1{
 	color:#fff;
 }
+.social{
 
+	display: block;
+}
+.social div{
+	float: left;
+	margin-right: 4px;
+	margin-left: 8px;
+}
 
 
 
