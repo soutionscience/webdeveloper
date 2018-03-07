@@ -164,7 +164,7 @@ p{
     margin-top: 20px;
 }
 .our-content{
-    padding: 150px 0px 170px 0px;	
+    padding: 250px 0px 270px 0px;	
 }
 .our-content p{
     max-width: 44%;
@@ -212,13 +212,19 @@ p{
 	font-size:13px;
 }
 .frist{
+	background:url(../images/solutionscience.PNG) no-repeat;
+	background-position:center center;
+	background-size:cover;
 	background-color:#f5989d;
 }
 .second{
+	background:url(../images/sojourn.PNG) no-repeat;
+	background-position:center center;
+	background-size:cover;
 	background-color:#615f7d;
 }
 .third{
-	background:url(../images/portfolio3.jpg) no-repeat;
+	background:url(../images/fixture.png) no-repeat;
 	background-position:center center;
 	background-size:cover;
 }
@@ -254,13 +260,16 @@ p{
 	padding:50px 0px;
 }
 
+.details-content p{
+	margin-top: 8px;
 
+}
 
 
 /* for more power 
 =========================*/
 #more-power{
-	background:url(../images/banner2.jpg) no-repeat;
+	background:url(../images/kenyan.jpg) no-repeat;
 	background-position:center center;
 	background-size:cover;
 	background-attachment:fixed;
