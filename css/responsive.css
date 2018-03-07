@@ -1,0 +1,143 @@
+
+@media only screen and (max-width: 1024px){
+.power-detailslse h2 {
+    font-size: 30px;
+ }
+h1 {
+    font-size: 35px;
+ }
+h3 {
+	font-size: 20px;
+ }
+.our-content {
+    padding: 140px 0px 270px 0px;
+ }
+.iphone img {
+	margin-top: -450px;
+ }
+   
+}
+
+
+
+
+
+@media only screen and (max-width: 768px){
+h3 {
+    font-size: 16px;
+ }
+ p{
+    line-height: 130%;
+ }
+ .portfolio-content p {
+    font-size: 12px;
+ }
+.iphone img {
+    margin-top: -305px;
+ }	
+.portfolio-content {
+    padding: 30px 15px;
+ }
+ .fifth{
+	padding:45px 10px;
+ }
+ .details-content {
+    margin-bottom: 50px;
+ }
+ .power-detailslse h2 {
+    max-width: 100%;
+	margin:0 auto;
+	text-align:center;
+ }
+ .power-detailslse p {
+    max-width: 70%;
+	margin:0 auto;
+    color: #fff;
+	text-align: justify;
+ }
+ .reasons-content {
+    margin-bottom: 50px;
+ }
+ .goto-left {
+    margin-bottom: 50px;
+ }
+ .footer-right {
+    margin-top: 50px;
+ }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+.our-logo img {
+    width: 50%;
+    margin-top: 20px;
+ }	
+ .our-content {
+    padding: 114px 0px 165px 0px;
+ }
+ .portfolio-content {
+    width: 104%;
+    margin-bottom: 10px;
+ }
+ .power-detailslse h2 {
+    max-width: 100%;
+ }
+ .power-detailslse p {
+    max-width: 100%;
+    color: #fff;
+ }
+  .goto-left {
+    max-width:100%;
+	margin: 0 auto;
+ }
+ .form-control {
+ width: 85%;
+ }
+ .submit-icon {
+    right: 5px;
+ }
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 320px){
+.our-logo img {
+    margin-top: 0px;
+ }	
+ .our-content p {
+    max-width: 100%;
+ }
+ .power-detailslse p {
+    text-align: justify;
+ }
+ .goto-left {
+    max-width: 100%;
+	margin: 0 auto;
+}
+ .form-control {
+ width: 77%;
+ }
+ .submit-icon {
+    right: 5px;
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
